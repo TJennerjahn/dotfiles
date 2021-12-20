@@ -1,0 +1,6 @@
+# Aliases
+alias cat="bat"
+alias ls="exa"
+alias v="nvim"
+alias t="tmux"
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
